@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### vue std 
+```
+Vue.js 를 공부하자
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
